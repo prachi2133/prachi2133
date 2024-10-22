@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 💬 Ask me about **c++,c**
+- 💬 Ask me about **JAVA,C,Python**
 
 - 📫 How to reach me **prachisingla877@gmail.com**
 
